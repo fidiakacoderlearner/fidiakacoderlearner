@@ -48,7 +48,7 @@ Tools lain: Canva, Playwright (E2E testing)
 
 ## Mari Terhubung
 
-Saya sedang mencari kesempatan kerja praktik/magang di bidang pengembangan perangkat lunak. Silakan hubungi saya lewat [LinkedIn](www.linkedin.com/in/afdhal-fidi-ansori) atau [email](mailto:afdhalfidi.ansori015@gmail.com).
+Silakan hubungi saya lewat [LinkedIn](www.linkedin.com/in/afdhal-fidi-ansori) atau [email](mailto:afdhalfidi.ansori015@gmail.com).
 
 <!--
 **fidiakacoderlearner/fidiakacoderlearner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
