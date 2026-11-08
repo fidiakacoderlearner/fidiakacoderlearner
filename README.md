@@ -44,7 +44,6 @@ Tools lain: Canva, Playwright (E2E testing)
 - 🥉 Juara 3 Karya Tulis Ilmiah IKON Universitas Mataram 2026
 - 🏅 Harapan 1 Lomba Essai Olimpiade & Milad Pendidikan Ekonomi UIN Suska Riau 2026
 - 🎖️ Finalis LIDM 2026
-- 🤝 Anggota HID Progress Report dan Kongres HIMATRO 2025
 
 ## Mari Terhubung
 
