@@ -42,6 +42,7 @@ Tools lain: Canva, Playwright (E2E testing)
 
 - 🥇 Juara 1 Lomba Media Pembelajaran STEP ULM 2026
 - 🥉 Juara 3 Karya Tulis Ilmiah IKON Universitas Mataram 2026
+- 🥉 Juara 3 Lomba Game DMGC USK 2026
 - 🏅 Harapan 1 Lomba Essai Olimpiade & Milad Pendidikan Ekonomi UIN Suska Riau 2026
 - 🎖️ Finalis LIDM 2026
 
